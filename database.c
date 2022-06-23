@@ -1,3 +1,5 @@
+//RUSTAM SINGH TOMER RA2111003011677
+//SHIKHAR SHARMA RA2111003011691
 #include <stdio.h>
 #include <conio.h>
 void main() {
